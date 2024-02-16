@@ -1,4 +1,4 @@
-The project can started with **Yarn start**
+The project can be started with **Yarn start**
 
 
 The response as requested:
