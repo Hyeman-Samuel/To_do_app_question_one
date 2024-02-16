@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Hyeman_Samuel",
   "license": "MIT",
+  "scripts":{
+    "start":"yarn ts-node src/server.ts"
+  },
+
   "dependencies": {
     "body-parser": "^1.20.2",
     "class-transformer": "^0.5.1",
